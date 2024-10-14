@@ -63,3 +63,14 @@
     },
     "additionalProperties": true
 }
+{
+    "id": "12345",
+    "urn": "hadith-67890",
+    "attr": "text",
+    "val": "This is the corrected hadith text.",  // Changed from original text
+    "lang": "en",
+    "comment": "Corrected the text to the accurate version.",  // Updated comment
+    "queue": "hadith-corrections",
+    "submittedBy": "submitter@example.com"
+}
+
